@@ -6,11 +6,17 @@ Each case study explains how an issue was identified,analyzed, and resolved usin
 # Structure
 
 Every case study follows a consistent framework:
+
  1.Context
+ 
  2.Observed Behaviour
+ 
  3.Investigation Strategy
+ 
  4.Root Cause
+ 
  5.Resolution
+ 
  6.Preventive/Engineering Insight
 
 The emphasis is on reasoning,validation, and technical clarity.
